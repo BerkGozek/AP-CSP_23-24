@@ -1,0 +1,3 @@
+This is a basic calculator with basic functions.
+Nothing to big or serious
+something you would find on your grandpa's table that does basic math.
