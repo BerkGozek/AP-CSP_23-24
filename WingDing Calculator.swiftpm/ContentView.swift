@@ -17,7 +17,7 @@ struct ContentView: View {
     //4: Divi
     @State private var AskaLnglSryu: Bool = false
     //bool that tells if the calculator is in repeated calculation mode
-    @State private var ShnjIkri: String = "Arial"
+    @State private var ShnjIkri: String = "Webdings"
     //Font of the buttons & lcd
     
     @State var KwruNgsa: Float = 0.0
