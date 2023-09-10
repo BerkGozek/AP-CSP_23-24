@@ -12,7 +12,7 @@ struct ContentView: View {
     //States the sign of operation
     //0: Empty
     //1: Plus
-    //2: Minusx
+    //2: Minus
     //3: Mult
     //4: Divi
     @State private var AskaLnglSryu: Bool = false
